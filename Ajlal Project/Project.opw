@@ -1,0 +1,41 @@
+[RESOURCES]
+[VARIABLES]
+Customer place Order.NumberIn
+Checking Other kind of material Quality.NumberIn
+Checking Other kind of material Quality.NumberOut
+Batch 10.NumberOut
+Customer place Order.NumberOut
+Prepare Zinger From Customer.NumberOut
+Prepare for Something else.NumberIn
+Prepare for Something else.NumberOut
+Prepare Chicken For KFC Buckets.NumberOut
+Prepare Bucket For Customer.NumberOut
+Serve To the Customer.NumberOut
+Checking Sauce Quality.NumberIn
+Checking Sauce Quality.NumberOut
+Prepare Nuggets.NumberIn
+Prepare Other thing from Zinger.NumberOut
+Sauce.NumberOut
+Separate Good or Bad Parts 1.NumberOut False
+Separate Good or Bad Parts 2.NumberOut False
+Separate Good or Bad Parts 3.NumberOut False
+Separate Good or Bad Parts 1.NumberOut True
+Separate Good or Bad Parts 2.NumberOut True
+Separate Good or Bad Parts 3.NumberOut True
+Prepare Chicken For KFC Buckets.NumberIn
+Garbages collect here for cats.NumberOut
+Prepare The order of Customer.NumberOut
+Prepare The order of Customer.NumberIn
+Chicken come from different type.NumberOut
+Garbages.NumberOut
+Perpare Nugets For Customer.NumberOut
+Prepare for zinger Burger.NumberOut
+Prepare for zinger Burger.NumberIn
+Prepare Nuggets.NumberOut
+Checking Chicken Quality.NumberOut
+Checking Chicken Quality.NumberIn
+Other kind of material.NumberOut
+Bye bye.NumberOut
+Customers.NumberOut
+sal
+Create Pair Of two Sauces For Each Table.NumberOut

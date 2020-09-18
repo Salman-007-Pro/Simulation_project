@@ -1,0 +1,27 @@
+[RESOURCES]
+[VARIABLES]
+Checking Parts Counter 1.NumberIn
+Checking Parts Counter 4.NumberIn
+Checking Parts Counter 3.NumberIn
+Checking Parts Counter 2.NumberIn
+Separate Good or Bad Parts 4.NumberOut False
+Separate Good or Bad Parts 3.NumberOut False
+Separate Good or Bad Parts 1.NumberOut False
+Separate Good or Bad Parts 2.NumberOut False
+Checking Parts Counter 1.NumberOut
+Checking Parts Counter 4.NumberOut
+Checking Parts Counter 3.NumberOut
+Checking Parts Counter 2.NumberOut
+Separate Good or Bad Parts 4.NumberOut True
+Separate Good or Bad Parts 3.NumberOut True
+Separate Good or Bad Parts 1.NumberOut True
+Separate Good or Bad Parts 2.NumberOut True
+Memories.NumberOut
+Trash Parts.NumberOut
+Materials.NumberOut
+Dispose 13.NumberOut
+Build Laptop.NumberOut
+End here and customer come purchare the laptops.NumberOut
+IC Chips.NumberOut
+sal
+Processor.NumberOut

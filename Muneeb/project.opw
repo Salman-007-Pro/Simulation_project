@@ -1,0 +1,15 @@
+[RESOURCES]
+[VARIABLES]
+Decide 1.NumberOut False
+Process 2.NumberOut
+Process 2.NumberIn
+Process 3.NumberIn
+Process 1.NumberIn
+Batch 1.NumberOut
+Create 1.NumberOut
+Dispose 4.NumberOut
+Process 3.NumberOut
+Dispose 3.NumberOut
+Variable 1
+Process 1.NumberOut
+Decide 1.NumberOut True

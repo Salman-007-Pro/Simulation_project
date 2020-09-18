@@ -1,0 +1,47 @@
+
+                                      ARENA Simulation Results
+                                      Salman - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 3/2020
+Analyst: Salman                                                      Model revision date: 3/ 3/2020
+
+Replication ended at time      : 48.935864 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .42303     .03859     .05437     1.5140        500    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        500    
+Entity 1.WaitTime                           .04979     .00449     1.7146E-04 .32751        500    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        500    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        500    
+Entity 1.TotalTime                          .47282     .03771     .05689     1.6255        500    
+Come.WaitingTime                                --         --         --         --          0
+Batch 1.Queue.WaitingTime                   .02489     .00225     .00000     .32751       1000    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                13.475     1.4516     .00000     34.000     .00000    
+Come.NumberInQueue                          .00000     (Insuf)    .00000     .00000     .00000    
+Batch 1.Queue.NumberInQueue                 .50872     .03114     .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           1500.0    
+Entity 1.NumberOut                          1500.0    
+System.NumberOut                            500.00    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

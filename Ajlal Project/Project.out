@@ -1,0 +1,71 @@
+
+                                      ARENA Simulation Results
+                                      Salman - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 1/2020
+Analyst: Salman                                                      Model revision date: 3/ 1/2020
+
+Replication ended at time      : 85.580629 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .20626     .00659     .01810     .89296       1779    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       1779    
+Entity 1.WaitTime                           .19326     .01164     .00000     1.7527       1779    
+Entity 1.TranTime                           .97218     .03836     .00000     2.1666       1779    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       1779    
+Entity 1.TotalTime                          .78622     .02680     .01810     2.5916       1779    
+Batch 10.Queue.WaitingTime                  .12445     .00778     .00000     .77104       1000    
+Prepare Zinger From Customer.Queue.Waiting  .10076     .01464     .00000     1.0428        428    
+Prepare Other thing from Zinger.Queue.Wait  .11335     .01538     .00000     1.1403        388    
+Perpare Nugets For Customer.Queue.WaitingT  .14415     (Insuf)    .00000     1.5494        318    
+Create Pair Of two Sauces For Each Table.Q  .04580     .00554     .00000     .55333        898    
+Prepare Bucket For Customer.Queue.WaitingT  .05010     .00469     .00000     .68289        904    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                32.910     1.6240     .00000     57.000     3.0000    
+Batch 10.Queue.NumberInQueue                1.4541     .10153     .00000     4.0000     .00000    
+Prepare Zinger From Customer.Queue.NumberI  .51224     .05268     .00000     2.0000     1.0000    
+Prepare Other thing from Zinger.Queue.Numb  .51390     .05472     .00000     2.0000     .00000    
+Perpare Nugets For Customer.Queue.NumberIn  .53973     .06516     .00000     2.0000     1.0000    
+Create Pair Of two Sauces For Each Table.Q  .52609     .04795     .00000     2.0000     1.0000    
+Prepare Bucket For Customer.Queue.NumberIn  .52919     .03156     .00000     2.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Buckets                                         775  Infinite
+Zinger                                          386  Infinite
+other                                           370  Infinite
+Trash Counter                                   311  Infinite
+Tsauce                                          449  Infinite
+Counter 3                                       907  Infinite
+Counter 2                                       899  Infinite
+Counter 1                                       883  Infinite
+Nuggets                                         259  Infinite
+cal sell                                       1468  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           5718.0    
+Entity 1.NumberOut                          5715.0    
+System.NumberOut                            1779.0    
+
+
+Simulation run time: 0.20 minutes.
+Simulation run complete.

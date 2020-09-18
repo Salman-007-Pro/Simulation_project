@@ -1,0 +1,45 @@
+
+                                      ARENA Simulation Results
+                                      Salman - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 1/2020
+Analyst: Salman                                                      Model revision date: 3/ 1/2020
+
+Replication ended at time      : 0.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+Batch 1.Queue.WaitingTime                       --         --         --         --          0
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Batch 1.Queue.NumberInQueue                 .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           .00000    
+Entity 1.NumberOut                          .00000    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

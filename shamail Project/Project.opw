@@ -1,0 +1,44 @@
+[RESOURCES]
+[VARIABLES]
+Other kind of parts of car.NumberOut
+Familty Come.NumberOut
+Customer.NumberOut
+Create Set Of Parts.NumberOut
+Fix Isssue In Ferrari Car.NumberOut
+Fix Isssue In Ferrari Car.NumberIn
+Wash The Ferrari.NumberOut
+Applied Polish on the Car.NumberIn
+head light come from different factory.NumberOut
+Checking Parts Counter 1.NumberIn
+Checking Parts Counter 4.NumberIn
+Checking Parts Counter 3.NumberIn
+Checking Parts Counter 2.NumberIn
+Trash Garbages.NumberOut
+Applied Polish on the Car.NumberOut
+Wash The Ferrari.NumberIn
+Separate Good or Bad Parts 1.NumberOut False
+Separate Good or Bad Parts 4.NumberOut False
+Separate Good or Bad Parts 3.NumberOut False
+Separate Good or Bad Parts 2.NumberOut False
+Checking Parts Counter 1.NumberOut
+Checking Parts Counter 4.NumberOut
+Checking Parts Counter 3.NumberOut
+Checking Parts Counter 2.NumberOut
+Order Some with Details.NumberOut False
+Separate Good or Bad Parts 1.NumberOut True
+Separate Good or Bad Parts 4.NumberOut True
+Separate Good or Bad Parts 3.NumberOut True
+Separate Good or Bad Parts 2.NumberOut True
+Order Ready to Delivers to Customer.NumberIn
+Order Ready to Delivers to Customer.NumberOut
+Order Some with Details.NumberOut True
+Display The Ferrari Car on Outlets.NumberIn
+Display The Ferrari Car on Outlets.NumberOut
+Thankyou for Buy Car.NumberOut
+Bumper come from different factory.NumberOut
+Test Car.NumberOut True
+Test Car.NumberOut False
+Build Ferrari Car Process.NumberOut
+Build Ferrari Car Process.NumberIn
+Engine parts.NumberOut
+Thanks For Coming Bye.NumberOut

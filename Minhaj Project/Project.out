@@ -1,0 +1,66 @@
+
+                                      ARENA Simulation Results
+                                      Salman - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 2/2020
+Analyst: Salman                                                      Model revision date: 3/ 2/2020
+
+Replication ended at time      : 86.115321 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .32961     (Corr)     .00000     .72522       2166    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       2166    
+Entity 1.WaitTime                           .05682     (Corr)     .00000     1.6201       2166    
+Entity 1.TranTime                           1.1499     (Corr)     .00000     2.3333       2166    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       2166    
+Entity 1.TotalTime                          .92990     (Corr)     4.2877E-05 2.4175       2166    
+Checkout 2.Queue.WaitingTime                .04173     (Corr)     .00000     1.3771       1036    
+Checkout 1.Queue.WaitingTime                .01645     (Corr)     .00000     .41169       2630    
+Shop Timing 12pm.Queue.WaitingTime          .03655     (Corr)     7.8213E-06 1.0297       1000    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                38.660     (Corr)     .00000     75.000     1.0000    
+Checkout 2.Queue.NumberInQueue              .50647     .03948     .00000     2.0000     1.0000    
+Checkout 1.Queue.NumberInQueue              .50252     .02982     .00000     2.0000     .00000    
+Shop Timing 12pm.Queue.NumberInQueue        .42448     (Corr)     .00000     16.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Bad Glass Shape                                 550  Infinite
+Good Glass Shape                               2233  Infinite
+Watch item                                      116  Infinite
+cal good sell                                  1315  Infinite
+Trash Counter                                   217  Infinite
+Counter 3                                       907  Infinite
+Counter 2                                       909  Infinite
+Counter 1                                       902  Infinite
+Total                                          1833  Infinite
+cal normal Sell                                 518  Infinite
+bad Counter                                      65  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           5833.0    
+Entity 1.NumberOut                          5832.0    
+System.NumberOut                            2166.0    
+
+
+Simulation run time: 0.20 minutes.
+Simulation run complete.

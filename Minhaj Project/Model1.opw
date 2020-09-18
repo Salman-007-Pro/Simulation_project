@@ -1,0 +1,8 @@
+[RESOURCES]
+[VARIABLES]
+Dispose 2.NumberOut
+Process 1.NumberIn
+Create 2.NumberOut
+Create 1.NumberOut
+Dispose 1.NumberOut
+Process 1.NumberOut

@@ -1,0 +1,38 @@
+[RESOURCES]
+[VARIABLES]
+Set The Display Glass item according to price.NumberOut
+Set The Display Glass item Acorrding to Price List.NumberIn
+Thanks for Coming.NumberOut
+Checkout 1.NumberOut
+Divide the Other Stuff.NumberOut False
+Making Different Type Of Shape of Glass.NumberIn
+Making Different Type Of Shape of Glass.NumberOut
+Divide the Other Stuff.NumberOut True
+Customer.NumberOut
+Checkout 2.NumberOut
+Separate Good or Bad Parts 1.NumberOut False
+Separate Good or Bad Parts 3.NumberOut False
+Separate Good or Bad Parts 2.NumberOut False
+Separate Good or Bad Parts 1.NumberOut True
+Separate Good or Bad Parts 3.NumberOut True
+Separate Good or Bad Parts 2.NumberOut True
+Import different type of Equipment.NumberOut
+Garbages.NumberOut
+Checking other Stuff Quality.NumberOut
+Checking other Stuff Quality.NumberIn
+Set The Display Glass item Acorrding to Price List.NumberOut
+Set The Display Glass item according to price.NumberIn
+Checking the Glass Material Quality.NumberIn
+Checking the Glass Material Quality.NumberOut
+Import Different Type of Glass Material.NumberOut
+Divide the Equipment.NumberOut True
+Other kind of Stuff used in Glass Making.NumberOut
+Divide the Equipment.NumberOut False
+Checking Equipment Quality.NumberIn
+Checking Equipment Quality.NumberOut
+Making Shape but Quality is Low.NumberIn
+Making Shape but Quality is Low.NumberOut
+Bye Bye.NumberOut
+Separate Material To be Fix?.NumberOut False
+Separate Material To be Fix?.NumberOut True
+sal

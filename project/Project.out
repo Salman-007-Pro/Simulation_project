@@ -1,0 +1,60 @@
+
+                                      ARENA Simulation Results
+                                      Salman - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 1/2020
+Analyst: Salman                                                      Model revision date: 3/ 1/2020
+
+Replication ended at time      : 89.582241 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .23729     .01550     .01874     .57255        742    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        742    
+Entity 1.WaitTime                           .54572     .04347     .00000     5.1540        742    
+Entity 1.TranTime                           .73293     .06164     .00000     2.3333        742    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        742    
+Entity 1.TotalTime                          .52031     .04223     .01874     2.0567        742    
+Build Laptop.Queue.WaitingTime              .11186     .00542     .00000     1.0300       3620    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                39.589     3.3818     .00000     76.000     .00000    
+Build Laptop.Queue.NumberInQueue            4.5201     .09762     .00000     10.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+IShop                                            56  Infinite
+LShop                                           142  Infinite
+Counter 3                                       917  Infinite
+Counter 2                                       898  Infinite
+Counter 1                                       907  Infinite
+Counter 5                                       362  Infinite
+Counter 4                                       898  Infinite
+PShop                                            86  Infinite
+kShop                                            78  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           4362.0    
+Entity 1.NumberOut                          4362.0    
+System.NumberOut                            742.00    
+
+
+Simulation run time: 0.10 minutes.
+Simulation run complete.

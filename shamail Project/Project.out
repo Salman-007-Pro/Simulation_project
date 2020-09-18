@@ -1,0 +1,61 @@
+
+                                      ARENA Simulation Results
+                                      Salman - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 2/2020
+Analyst: Salman                                                      Model revision date: 3/ 2/2020
+
+Replication ended at time      : 176.23432 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .21175     (Corr)     .00000     .63342       2288    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       2288    
+Entity 1.WaitTime                           .05615     (Corr)     .00000     .98081       2288    
+Entity 1.TranTime                           .52622     (Corr)     .00000     1.3333       2288    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       2288    
+Entity 1.TotalTime                          .61632     (Corr)     .00000     2.0337       2288    
+Create Set Of Parts.Queue.WaitingTime       .03557     (Corr)     .00000     .64130       3612    
+Familty Come.Queue.WaitingTime              .00000     .00000     .00000     .00000       1000    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                38.257     (Corr)     .00000     117.00     3.0000    
+Create Set Of Parts.Queue.NumberInQueue     2.2690     (Corr)     .00000     4.0000     3.0000    
+Familty Come.Queue.NumberInQueue            .00000     (Insuf)    .00000     1.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Counter 3                                       914  Infinite
+Counter 2                                       899  Infinite
+Counter 1                                       890  Infinite
+Watcher                                        1288  Infinite
+Counter 4                                       912  Infinite
+Trash                                           385  Infinite
+Total Cars                                      903  Infinite
+Total Car Sell                                  615  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           6903.0    
+Entity 1.NumberOut                          6900.0    
+System.NumberOut                            2288.0    
+
+
+Simulation run time: 0.30 minutes.
+Simulation run complete.
